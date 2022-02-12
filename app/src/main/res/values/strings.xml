@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwitLoginExp</string>
+    <!--
+        add CONSUMER_KEY(API Key) and CONSUMER_SECRET(API Secret)
+    -->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">50MvhxnXFgVfoKC38FfSxI8Hw</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">E0JVEMsn4jSPDApH8gIVr8wyFwtHiigC4fXM8XAzMpCwYJvuvW
+</string>
+
+</resources>
